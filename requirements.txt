@@ -1,1 +1,3 @@
-Name the packages need for the python script
+Name the packages need for the python script as you can run them using:
+
+pip install -r requirements
