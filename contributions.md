@@ -2,7 +2,7 @@ ABDUR:
 
 
 
-* Made GitHub folder
+* Made GitHub Repository
 
 
 
